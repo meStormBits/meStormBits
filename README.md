@@ -4,7 +4,7 @@
 
 <h2>📖 &nbsp;About Me</h2>
 <p>
-  👋 Hey there! I'm <strong>Stormbits</strong>, a 20-year-old Software Developer and Cybersecurity enthusiast. I'm passionate about building high performance, secure and scalable solutions.
+  👋 Hey there! I'm <strong>Stormbits</strong>, a 21-year-old Software Developer and Cybersecurity enthusiast. I'm passionate about building high performance, secure and scalable solutions.
 </p>
 <p>
   I've worked on a number of Minecraft servers over the years, building everything from complete custom gamemodes to small addon features. I'm always on the lookout for the latest technology and improving myself daily.
@@ -35,8 +35,8 @@
 
 <h2>📂 &nbsp;Current Projects</h2>
 <ul>
-  <li>🔧 <strong>Fortex</strong> – A Minecraft Rust-inspired server powered by Minestom</li>
-  <li>🏢 <strong>EvokeGames</strong> – A small team building unique Minecraft experiences. Responsible for EvokeGames Development and Pickaxe.NET</li>
+  <li>🔧 <strong>NexariaMC</strong> – A Minecraft server that hosts a Lifesteal SMP gamemode as well as a MMORPG.</li>
+  <li>🏢 <strong>ExodusMC</strong> – A Minecraft server home to 4 fully custom gamemodes and counting.</li>
   <li>🌐 <strong>Portfolio Website</strong> – Rebuilding my personal website from the ground up.</li>
 </ul>
 
